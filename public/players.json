@@ -1,0 +1,185 @@
+[
+    {
+      "playerId": 1,
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/9tcBWLG/musfiqur.jpg",
+      "role": "Wicketkeeper",
+      "batting_type": "Right-hand Bat",
+      "bowling_type": "None",
+      "bidding_price": "$650,000"
+    },
+    {
+      "playerId": 2,
+      "name": "Liton Das",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/cTyFhMj/litond.jpg",
+      "role": "Batsman",
+      "batting_type": "Right-hand Bat",
+      "bowling_type": "Right-arm Offbreak",
+      "bidding_price": "$600,000"
+    },
+    {
+      "playerId": 3,
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/PN96PR8/mus.jpg",
+      "role": "Bowler",
+      "batting_type": "Left-hand Bat",
+      "bowling_type": "Left-arm Fast",
+      "bidding_price": "$750,000"
+    },
+    {
+      "playerId": 4,
+      "name": "Mahmudullah",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/fD3f2w2/mahmudlul.jpg",
+      "role": "All-rounder",
+      "batting_type": "Right-hand Bat",
+      "bowling_type": "Right-arm Offbreak",
+      "bidding_price": "$700,000"
+    },
+    {
+      "playerId": 5,
+      "name": "Taskin Ahmed",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/vB1pKsb/taskin.jpg",
+      "role": "Bowler",
+      "batting_type": "Right-hand Bat",
+      "bowling_type": "Right-arm Fast",
+      "bidding_price": "$650,000"
+    },
+    {
+      "playerId": 6,
+      "name": "Joe Root",
+      "country": "England",
+      "image": "https://i.ibb.co.com/NxnP2ZL/Joe-Root.jpg",
+      "role": "Batsman",
+      "batting_type": "Right-hand Bat",
+      "bowling_type": "Right-arm Offbreak",
+      "bidding_price": "$950,000"
+    },
+    {
+      "playerId": 7,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "image": "https://i.ibb.co.com/wh2pWVK/Rashid.jpg",
+      "role": "Bowler",
+      "batting_type": "Right-hand Bat",
+      "bowling_type": "Leg Break Googly",
+      "bidding_price": "$800,000"
+    },
+    {
+      "playerId": 8,
+      "name": "Chris Gayle",
+      "country": "West Indies",
+      "image": "https://i.ibb.co.com/fk0MZgq/gail.jpg",
+      "role": "Batsman",
+      "batting_type": "Left-hand Bat",
+      "bowling_type": "Right-arm Offbreak",
+      "bidding_price": "$1,000,000"
+    },
+    {
+        "playerId": 9,
+        "name": "AB de Villiers",
+        "country": "South Africa",
+        "image": "https://i.ibb.co.com/b3Mt8kC/dvl.jpg",
+        "role": "Batsman",
+        "batting_type": "Right-hand Bat",
+        "bowling_type": "None",
+        "bidding_price": "$950,000"
+      },
+      
+    {
+      "playerId": 10,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/8Y0D9gS/Kane-Williamson-ezgif-com-webp-to-jpg-converter.jpg",
+      "role": "Batsman",
+      "batting_type": "Right-hand Bat",
+      "bowling_type": "Right-arm Offbreak",
+      "bidding_price": "$900,000"
+    },
+    {
+      "playerId": 11,
+      "name": "Jos Buttler",
+      "country": "England",
+      "image": "https://i.ibb.co.com/dB2HTYS/Jos-Buttler-ezgif-com-avif-to-jpg-converter.jpg",
+      "role": "Wicketkeeper",
+      "batting_type": "Right-hand Bat",
+      "bowling_type": "None",
+      "bidding_price": "$850,000"
+    },
+    {
+      "playerId": 12,
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/9HyDDLq/David-Warner-ezgif-com-webp-to-jpg-converter.jpg",
+      "role": "Batsman",
+      "batting_type": "Left-hand Bat",
+      "bowling_type": "Right-arm Legbreak",
+      "bidding_price": "$950,000"
+    },
+    {
+      "playerId": 13,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "image": "https://i.ibb.co.com/F8hvPN3/Jasprit-Bumrah-ezgif-com-webp-to-jpg-converter.jpg",
+      "role": "Bowler",
+      "batting_type": "Right-hand Bat",
+      "bowling_type": "Right-arm Fast",
+      "bidding_price": "$1,000,000"
+    },
+    {
+      "playerId": 14,
+      "name": "Andre Russell",
+      "country": "West Indies",
+      "image": "https://i.ibb.co.com/CnSdjBT/Andre-Russell.jpg",
+      "role": "All-rounder",
+      "batting_type": "Right-hand Bat",
+      "bowling_type": "Right-arm Fast",
+      "bidding_price": "$950,000"
+    },
+    {
+      "playerId": 15,
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/C9Rq28R/Pat-Cummins-ezgif-com-avif-to-jpg-converter.jpg",
+      "role": "Bowler",
+      "batting_type": "Right-hand Bat",
+      "bowling_type": "Right-arm Fast",
+      "bidding_price": "$1,100,000"
+    },
+    {
+      "playerId": 16,
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/mTZTbqy/Trent-Boult.jpg",
+      "role": "Bowler",
+      "batting_type": "Left-hand Bat",
+      "bowling_type": "Left-arm Fast",
+      "bidding_price": "$950,000"
+    },
+    {
+      "playerId": 17,
+      "name": "Faf du Plessis",
+      "country": "South Africa",
+      "image": "https://i.ibb.co.com/MVS1Zct/Faf-du-Plessis.jpg",
+      "role": "Batsman",
+      "batting_type": "Right-hand Bat",
+      "bowling_type": "None",
+      "bidding_price": "$850,000"
+    },
+    {
+      "playerId": 18,
+      "name": "Mitchell Starc",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/59cMpNY/Mitchell-Starc.jpg",
+      "role": "Bowler",
+      "batting_type": "Left-hand Bat",
+      "bowling_type": "Left-arm Fast",
+      "bidding_price": "$1,200,000"
+    }
+  ]
+
+  
